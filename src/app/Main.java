@@ -3,7 +3,7 @@ package app;
 public class Main {
     private static final double CONV_K = 2.20462;
     public static void main(String[] args) {
-        System.out.println("Converter app.");
+        System.out.println("Vesion 1.0.");
 
         double kgs = 5;
         double pnds = 12;
